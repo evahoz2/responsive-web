@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+@media screen and (max-width: 800px)
+{
+    body{
+        background-color: aquamarine;
+    }
+}
+@media screen and (min-width: 1000px) and (max-width:1200px)
+{
+    body{
+        background-color:mediumpurple;
+    }
+}
